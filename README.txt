@@ -1,0 +1,1 @@
+Aquí debes colocar los archivos JSON por comuna, con las direcciones correspondientes.
